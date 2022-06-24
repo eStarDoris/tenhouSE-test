@@ -1,17 +1,17 @@
 {
   "ver":1.0,
   "se":{
-    "25":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/SE_ssk/ssk_pon.mp3"},
+    "25":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/ssk_pon.mp3"},
     "26":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/SE_mari/mari_pon.mp3"},
-    "27":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/SE_ssk/ssk_kan.mp3"},
+    "27":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/ssk_kan.mp3"},
     "28":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/SE_mari/mari_kan.mp3"},    
-    "29":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/SE_ssk/ssk_chi.mp3"},
+    "29":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/ssk_chi.mp3"},
     "30":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/SE_mari/mari_chi.mp3"},
-    "31":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/SE_ssk/ssk_rich.mp3"},
+    "31":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/ssk_rich.mp3"},
     "32":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/SE_mari/mari_rich.mp3"},
-    "33":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/SE_ssk/ssk_ron.mp3"},
+    "33":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/ssk_ron.mp3"},
     "34":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/SE_mari/mari_ron.mp3"},
-    "35":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/SE_ssk/ssk_tsumo.mp3"},
+    "35":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/ssk_tsumo.mp3"},
     "36":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/main/SE_mari/mari_tsumo.mp3"}
   }
 }
