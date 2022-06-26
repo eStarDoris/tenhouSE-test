@@ -1,11 +1,11 @@
 {
   "ver":1.0,
   "se":{
-    "25":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/test/SE_taki/taki_pon.mp3"},
-    "27":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/test/SE_taki/taki_kan.mp3"},
-    "29":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/test/SE_taki/taki_chi.mp3"},
-    "31":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/test/SE_taki/taki_rich.mp3"},
-    "33":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/test/SE_taki/taki_ron.mp3"},
-    "35":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/test/SE_taki/taki_tsumo.mp3"}
+    "25":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/test/SE_rumi/rumi_pon.mp3"},
+    "27":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/test/SE_rumi/rumi_kan.mp3"},
+    "29":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/test/SE_rumi/rumi_chi.mp3"},
+    "31":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/test/SE_rumi/rumi_rich.mp3"},
+    "33":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/test/SE_rumi/rumi_ron.mp3"},
+    "35":{"url":"https://raw.githubusercontent.com/eStarDoris/tenhouSE-test/test/SE_rumi/rumi_tsumo.mp3"}
   }
 }
